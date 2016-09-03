@@ -1,3 +1,4 @@
+中文站：http://www.slimphp.net
 # Slim Framework
 
 [![Build Status](https://travis-ci.org/slimphp/Slim.svg?branch=develop)](https://travis-ci.org/slimphp/Slim)
